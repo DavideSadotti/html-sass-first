@@ -1,0 +1,16 @@
+$red_color: red;
+$big_font: 30px;
+
+h1, h2 {
+  color: $red_color;
+}
+
+p{
+  color: blue;
+}
+
+button{
+  color: green;
+  font-size: $big_font;
+  font-weight: bold;
+}
